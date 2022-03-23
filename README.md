@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### Connect with me
 <a href="https://linkedin.com/in/yann-armelin-2b286138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yann-armelin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11837192/yann-armelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yann-armelin" height="30" width="40" /></a>
+<a href="https://apps.apple.com/tt/developer/yann-armelin/id421993161" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/apple.svg" alt="yann-armelin" height="30" width="40" /></a>
 <a href="https://instagram.com/yann.armelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yqnn" height="30" width="40" /></a>
 
 
@@ -30,4 +31,9 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yqnn&show_icons=true&locale=en&layout=compact" alt="yqnn" />
 
-
+### Support
+<table><tr><td align="center" border="0">
+<a href="https://github.com/sponsors/Yqnn" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/Yqnn/svg-path-editor/master/src/assets/sponsor.svg" height="30" width="40" ><br/>
+Become a sponsor
+</td></tr></table>
