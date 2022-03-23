@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
+I'm Yann Armelin, a French software engineer.
+
+I have been developing for as long as I can remember. I like to create tools, applications and games for my own usage and share them.
 <!--
 **Yqnn/yqnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me
+<a href="https://linkedin.com/in/yann-armelin-2b286138" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yann-armelin" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/11837192/yann-armelin" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yann-armelin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/yann.armelin" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yqnn" height="30" width="40" />
+</a>
+
+
+### Contributions
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yqnn&show_icons=true&locale=en" alt="yqnn" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yqnn&show_icons=true&locale=en&layout=compact" alt="yqnn" />
+
+
