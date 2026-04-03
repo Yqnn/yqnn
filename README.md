@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 
 ### Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yqnn&show_icons=true&locale=en" alt="yqnn" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=yqnn&show_icons=true&locale=en&theme=github_dark_dimmed" alt="yqnn" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yqnn&show_icons=true&locale=en&layout=compact" alt="yqnn" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=yqnn&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="yqnn" />
 
 ### Support
 <table><tr><td align="center" border="0">
